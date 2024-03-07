@@ -108,8 +108,7 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: ibm # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: 
+  - icon: custom/ibm # Alternatively, use `google-scholar` icon from `ai` icon pack
     link: https://ukant.tech
   - icon: github
     icon_pack: fab
