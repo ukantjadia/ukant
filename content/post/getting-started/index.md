@@ -14,23 +14,25 @@ date: '2020-12-13T00:00:00Z'
 lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
+
 # Show this page in the Featured widget?
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
 projects: []
 featured: false
+authors:
+  - Ukant Jadia
+
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
-authors:
-  - admin
-  - 吳恩達
+
 
 tags:
   - Academic
