@@ -17,7 +17,7 @@ featured: true
 image:
     # caption: 'Image credit: Ukant'
     focal_point: ''
-    placement: 2
+    placement: 1
     preview_only: false
 
 categories:
