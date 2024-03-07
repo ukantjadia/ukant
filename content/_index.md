@@ -127,7 +127,8 @@ sections:
           date_end: '2023-02-10'
           date_start: '2023-01-20'
           description: Analyse and interpret the large data and apply Machine learning
-          icon: internshala
+          icon_pack: custom
+          icon: ibm
           organization: internshala
           organization_url: https://trainings.internshala.com/
           title: Data Science

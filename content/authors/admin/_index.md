@@ -49,12 +49,12 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technicaldfdf
+  - name: Technical
     items:
       - name: Machine Learning
         description: ''
         percent: 75
-        icon: brain-circuit
+        icon:   brain-circuit
         icon_pack: fab
       - name: Python
         description: ''
@@ -71,26 +71,7 @@ skills:
         percent: 70
         icon: database
         icon_pack: fas
-  - name: Hobbiesdfsdfs
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-  - name: Hobbiesccccccc
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
