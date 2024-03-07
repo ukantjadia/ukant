@@ -31,12 +31,12 @@ bio: My research interests include applied machine learning, visualization, prog
 interests:
   - Machine Learning
   - Medical Solutions
-  - Large Language Model
+  - Large Language Model             
 
 # Education to show in About widget
 education:
   courses:
-    - course: BTech in Computer Science Ai & ML
+    - course: BTech in Computer Science and Engineering with AI & ML
       institution: Sir Padampat Singhania University
       year: 2024
     - course: High School in Mathematics, Physics and Chemistry
@@ -51,49 +51,49 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Machine Learning
-        description: ''
+      - name: Languages
+        description: Python, C/C++, Dart, Bash/Shell, Java
         percent: 75
-        icon:   brain-circuit
-        icon_pack: fab
-      - name: IBM
-        description: Arch, Kali, RHEL, OpenSUSE
-        icon: ibm
+        icon:   language
         icon_pack: custom
-      - name: Python
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 80
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
+      - name: Frameworks/Library
+        description: Flutter, Flask, Tensorflow, Requests, imutils
+        icon: framework
+        icon_pack: custom
+      - name: Database
+        description: MySQL, SQL, Firestore
         percent: 70
         icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
+        icon_pack: custom
+      - name: Tools/Platform 
+        description: Vim, Git, Linux, Docker, MLFlow, PowerBI
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: platform
+        icon_pack: custom
+      - name: Miscellaneous
+        description: Statistics, Supervised/Unsupervised Learning, Deep Learning, EDA/ETL, AWS/Azure
+        percent: 70
+        icon: miscellaneous
+        icon_pack: custom
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-hiking
+  #       icon_pack: fas
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #       icon_pack: fas
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera-retro
+  #       icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-bui  lder/#icons
