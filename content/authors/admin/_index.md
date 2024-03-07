@@ -53,47 +53,48 @@ skills:
     items:
       - name: Languages
         description: Python, C/C++, Dart, Bash/Shell, Java
-        percent: 75
+        # percent: 75
         icon:   language
         icon_pack: custom
       - name: Frameworks/Library
         description: Flutter, Flask, Tensorflow, Requests, imutils
+        # percent: 70
         icon: framework
         icon_pack: custom
       - name: Database
         description: MySQL, SQL, Firestore
-        percent: 70
+        # percent: 70
         icon: database
         icon_pack: custom
       - name: Tools/Platform 
         description: Vim, Git, Linux, Docker, MLFlow, PowerBI
-        percent: 80
+        # percent: 80
         icon: platform
         icon_pack: custom
       - name: Miscellaneous
         description: Statistics, Supervised/Unsupervised Learning, Deep Learning, EDA/ETL, AWS/Azure
-        percent: 70
+        # percent: 70
         icon: miscellaneous
         icon_pack: custom
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-hiking
-  #       icon_pack: fas
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #       icon_pack: fas
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera-retro
-  #       icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: 'sdfsdf'
+        # percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: 'sdfsdf'
+        # percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: 'sdfsd'
+        # percent: 80
+        icon: camera-retro
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-bui  lder/#icons
