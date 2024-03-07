@@ -54,7 +54,7 @@ skills:
       - name: Machine Learning
         description: ''
         percent: 75
-        icon: machine
+        icon: brain-circuit
         icon_pack: fab
       - name: Python
         description: ''
@@ -108,9 +108,9 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: ibm # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: custom
-    link: https://ukant.tech
+  # - icon: ibm # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: custom
+  #   link: https://ukant.tech
   - icon: github
     icon_pack: fab
     link: https://github.com/ukantjadia
