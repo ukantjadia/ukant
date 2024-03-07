@@ -4,7 +4,8 @@ subtitle: This post contains all the basic initial commands for initializing or 
 summary: This post contains all the basic initial commands for initializing or publishing a repo 
 # description: Some useful commands for git 
 # slug: basic-git-commands
-authors: Ukant Jadia
+authors:
+    - Ukant Jadia
 
 draft: false
 date: 2023-12-30T14:15:59+05:30
