@@ -1,8 +1,8 @@
 ---
 title: Basic Git Commands
-subtitle: This post contains all the basic initial commands for initializing or publishing a repo 
+subtitle: Some useful commands for git 
 summary: This post contains all the basic initial commands for initializing or publishing a repo 
-# description: Some useful commands for git 
+# description: 
 # slug: basic-git-commands
 authors:
     - Ukant Jadia
@@ -10,13 +10,15 @@ authors:
 draft: false
 date: 2023-12-30T14:15:59+05:30
 lastmod: 
-# expiryDate: 
-# publishDate: 2022-06-16T22:44:17+05:30
+
 
 featured: true
 
 image:
-    caption: 'Image credit: Ukant'
+    # caption: 'Image credit: Ukant'
+    focal_point: ''
+    placement: 2
+    preview_only: false
 
 categories:
     - Version Control System-VCS
@@ -34,7 +36,7 @@ tags:
 
 
 ----
-
+```bash
 cd to the root file of the project
 echo "+ Project " >> README.md
 git init
@@ -43,7 +45,7 @@ git commit -m "README"
 git branch -M Main
 git remote add origin <repo_link> 
 git push -u origin Main
-
+```
 ----
 + pushing an existing repo from cli
 git remote add origin https://github.com/UserCtf777/Inkdrop.git
