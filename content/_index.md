@@ -56,7 +56,7 @@ sections:
     content:
       title: Programming Skills
       items:
-        - name: Languages
+      - name: Languages
         description: Python, C/C++, Dart, Bash/Shell, Java
         # percent: 75
         icon:   language
