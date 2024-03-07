@@ -56,6 +56,10 @@ skills:
         percent: 75
         icon:   brain-circuit
         icon_pack: fab
+      - name: IBM
+        description: Arch, Kali, RHEL, OpenSUSE
+        icon: ibm
+        icon_pack: custom
       - name: Python
         description: ''
         percent: 90

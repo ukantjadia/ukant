@@ -52,6 +52,7 @@ sections:
       username: admin
     design:
       columns: '1'
+      
   - block: experience
     content:
       title: Experience
