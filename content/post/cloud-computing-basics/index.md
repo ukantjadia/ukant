@@ -34,9 +34,9 @@ image:
 
 ## Public Cloud
 
-{{< rawhtml >}}
+<!-- {{< rawhtml >}} -->
 <img src="img1.jpg" alt="Example Image" width="300" height="200" align="right">
-{{< /rawhtml >}}
+<!-- {{< /rawhtml >}} -->
 
 <!-- + *[IMAGE](https://media.geeksforgeeks.org/wp-content/uploads/20211123123729/Group4-660x330.jpg) -->
 
@@ -46,9 +46,9 @@ image:
 
 ## Private Cloud
 
-{{< rawhtml >}}
+<!-- {{< rawhtml >}} -->
 <img src="img2.jpg" alt="Example Image" width="300" height="200" align="right">
-{{< /rawhtml >}}
+<!-- {{< /rawhtml >}} -->
 
  <!-- *[IMAGE](https://media.geeksforgeeks.org/wp-content/uploads/20211123123851/Group1-660x330.jpg)* -->
 
@@ -64,9 +64,9 @@ image:
 
 ## Hybrid Cloud
 
-{{< rawhtml >}}
+<!-- {{< rawhtml >}} -->
 <img src="img3.png" alt="Example Image" width="300" height="200" align="right">
-{{< /rawhtml >}}
+<!-- {{< /rawhtml >}} -->
 
  <!-- <!- *[IMAGE](https://static.javatpoint.com/cloudpages/images/hybridcloud.png)* --> -->
 

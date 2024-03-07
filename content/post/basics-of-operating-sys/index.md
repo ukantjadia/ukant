@@ -29,9 +29,9 @@ image:
 
 
 # 1.  Operating System[OS]   
-{{< rawhtml >}}
+<!-- {{< rawhtml >}} -->
 <img src="https://www.gatevidyalay.com/wp-content/uploads/2018/11/Translating-Logical-Address-into-Physical-Address-Diagram.png" alt="Example Image" width="300" height="200" align="right">
-{{< /rawhtml >}}
+<!-- {{< /rawhtml >}} -->
 
 1.  Paging :--> 
 <!-- ![IMAGE](https://www.gatevidyalay.com/wp-content/uploads/2018/11/Translating-Logical-Address-into-Physical-Address-Diagram.png) -->
