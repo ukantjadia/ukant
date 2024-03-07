@@ -2,8 +2,8 @@
 title: Imputation of Missing Data
 subtitle: Handling the missing data in dataset
 summary: Handling the missing data in dataset
-authors: 
-    - Ukant Jadia
+# authors: 
+#     - Ukant Jadia
 
 draft: false
 date: 2023-12-30T14:19:38+05:30

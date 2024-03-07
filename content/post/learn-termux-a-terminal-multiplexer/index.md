@@ -19,8 +19,8 @@ tags:
 
 projects: []
 featured: false
-authors:
-  - Ukant Jadia
+# authors:
+#   - Ukant Jadia
 image:
   caption: ''
   focal_point: ''

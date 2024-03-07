@@ -4,8 +4,8 @@ subtitle: Types of cloud computing is being used
 summary: Types of cloud computing is being used
 # description: Types of cloud computing is begin used
 # slug: cloud-computing-basics
-author: 
-  - Ukant Jadia
+# author: 
+#   - Ukant Jadia
 
 draft: false
 date: 2023-12-30T14:13:52+05:30

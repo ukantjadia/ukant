@@ -4,8 +4,8 @@ subtitle: Basics of Operating Sys
 summary: Learn the concepts of memory allocation and paging 
 # description: Concepts of operating system like paging and memory allocation
 # slug: basics-of-operating-sys
-author: 
-  - Ukant Jadia
+# authors: 
+#   - Ukant Jadia
 
 draft: false
 date: 2022-03-21T22:56:25+05:30

@@ -3,8 +3,8 @@ title: Enumeration Second Step for Exploitation
 subtitle: The basics of the second step for exploitation
 summary: The basics of the second step for exploitation
 
-author: 
-  - Ukant Jadia
+# author: 
+#   - Ukant Jadia
 
 draft: false
 date: 2023-12-30T14:15:39+05:30

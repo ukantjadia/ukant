@@ -16,8 +16,8 @@ tags:
     - Markdown
 projects: []
 featured: false
-authors:
-  - Ukant Jadia
+# authors:
+#   - Ukant Jadia
 
 
 image:

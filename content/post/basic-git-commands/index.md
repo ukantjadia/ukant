@@ -4,8 +4,8 @@ subtitle: Some useful commands for git
 summary: This post contains all the basic initial commands for initializing or publishing a repo 
 # description: 
 # slug: basic-git-commands
-authors:
-    - Ukant Jadia
+# authors:
+#     - Ukant Jadia
 
 draft: false
 date: 2023-12-30T14:15:59+05:30
@@ -13,6 +13,7 @@ lastmod:
 
 
 featured: true
+projects: []
 
 image:
     # caption: 'Image credit: Ukant'

@@ -17,8 +17,8 @@ tags:
     - Basics
 projects: []
 featured: false
-authors:
-  - Ukant Jadia
+# authors:
+#   - Ukant Jadia
 
 
 image:

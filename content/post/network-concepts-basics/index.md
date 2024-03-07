@@ -16,8 +16,8 @@ tags:
     - Networking concepts
 projects: []
 featured: false
-authors:
-  - Ukant Jadia
+# authors:
+#   - Ukant Jadia
 
 
 image:

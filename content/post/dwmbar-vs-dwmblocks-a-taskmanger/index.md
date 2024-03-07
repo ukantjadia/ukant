@@ -3,8 +3,8 @@ title: Dwmbar vs Dwmblocks a Taskmanger
 subtitle: issues witht the dwmbar and solution with dwmblocks
 
 summary: issues witht the dwmbar and solution with dwmblocks
-author: 
-    - Ukant Jadia
+# author: 
+#     - Ukant Jadia
 
 draft: false
 date: 2023-12-30T14:15:02+05:30
