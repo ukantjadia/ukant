@@ -92,7 +92,7 @@ skills:
         icon_pack: fas
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-bui  lder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -109,7 +109,7 @@ social:
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: gloab # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fal
+    icon_pack: fab
     link: https://ukant.tech
   - icon: github
     icon_pack: fab
