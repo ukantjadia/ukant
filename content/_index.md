@@ -44,15 +44,43 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '2'
   # - block: features
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '2'
+    - block: features
+    content:
+      title: Programming Skills
+      items:
+        - name: Languages
+        description: Python, C/C++, Dart, Bash/Shell, Java
+        # percent: 75
+        icon:   language
+        icon_pack: custom
+      - name: Frameworks/Library
+        description: Flutter, Flask, Tensorflow, Requests, imutils
+        # percent: 70
+        icon: framework
+        icon_pack: custom
+      - name: Database
+        description: MySQL, SQL, Firestore
+        # percent: 70
+        icon: database
+        icon_pack: custom
+      - name: Tools/Platform 
+        description: Vim, Git, Linux, Docker, MLFlow, PowerBI
+        # percent: 80
+        icon: platform
+        icon_pack: custom
+      - name: Miscellaneous
+        description: Statistics, Supervised/Unsupervised Learning, Deep Learning, EDA/ETL, AWS/Azure
+        # percent: 70
+        icon: miscellaneous
+        icon_pack: custom
 
   - block: experience
     content:
