@@ -52,7 +52,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - internal-project
-
+draft: true
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
