@@ -69,7 +69,7 @@ sections:
       - name: Database
         description: MySQL, SQL, Firestore
         # percent: 70
-        icon: platform
+        icon: database
         icon_pack: custom
       - name: Tools/Platform 
         description: Vim, Git, Linux, Docker, MLFlow, PowerBI
