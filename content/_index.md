@@ -54,7 +54,7 @@ sections:
   #     columns: '2'
   - block: features
     content:
-      title: Programming Skills
+      title: Skills
       items:
       - name: Languages
         description: Python, C/C++, Dart, Bash/Shell, Java
